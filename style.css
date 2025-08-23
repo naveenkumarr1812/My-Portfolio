@@ -927,6 +927,6 @@ textarea.form-input {
     .timeline-dot { display: none; }
 }
 
-@media (max-width: 967px) {
+@media (max-width: 985px) {
     .about-content { grid-template-columns: 1fr; gap: 2rem; }
 }   
