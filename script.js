@@ -171,3 +171,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+//
+document.getElementById("sendBtn").addEventListener("click", function() {
+    alert("✅ Your message has been sent successfully.");
+});
